@@ -1,6 +1,6 @@
 This project was bootstrapped with Create React App.
 
-You can clone this project from here - https://github.com/ancutadaniel/ethereum_socialNetwork_app
+You can clone this project from here - https://github.com/ancutadaniel/ethereum_truffle_react_social_app
 
 Available Scripts
 
