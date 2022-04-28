@@ -78,7 +78,7 @@ const App = () => {
       setPosts(postsArr);
       setLoading(false);
     } catch (error) {
-      console.lor(error);
+      console.log(error);
       alert(
         'Check if Smart Contract is compiled and deployed, run truffle compile && truffle migrate --reset'
       );
